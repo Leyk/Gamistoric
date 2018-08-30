@@ -1,0 +1,2 @@
+# Gamistoric
+Privacy Policy
