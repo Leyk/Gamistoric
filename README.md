@@ -1,63 +1,70 @@
-# Gamistoric
+Politique de protection des données personnelles - RGPD
 
-Privacy Policy
+La société Gamistoric est soucieuse de la protection des données personnelles. Elle s’engage à assurer le meilleur niveau de protection à vos données personnelles en conformité avec la loi Informatique et Libertés.
 
+Pour toute information sur la protection des données personnelles, vous pouvez également consulter le site de la Commission nationale de l’informatique et des libertés.
 
-Gamistoric built the Gamistoric app as a Freemium app. This SERVICE is provided by Gamistoric at no cost and is intended for use as is.
+ 
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Identité du responsable du traitement
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Les données personnelles sont collectées par : Gamistoric. Siège social – Charlan, Lieu-dit Le Pigeonnier - 47190 Aiguillon – RCS Agen (immatriculation).
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Gamistoric unless otherwise defined in this Privacy Policy.
+Vous pouvez exercer votre droit d’accès aux données vous concernant et les faire rectifier en écrivant à : support@gamistoric.com.
 
-Information Collection and Use
+ 
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Login, Email. The information that we request will be retained by us and used as described in this privacy policy.
+Finalité – exploitation des données vous concernant
 
-The app does use third party services that may collect information used to identify you.
+Gestion de vos commandes
 
-Link to privacy policy of third party service providers used by the app
+Les informations et données vous concernant sont nécessaires à la gestion de votre commande et à nos relations commerciales. Ces informations et données sont également conservées à des fins de sécurité, afin de respecter les obligations légales et réglementaires.
 
-Google Play Services
-Log Data
+En cas d'incident au moment de la commande, contactez support@gamistoric.com en nous communicant vos nom, prénom, adresse e-mail et votre numéro de commande que vous recevez par courriel (vérifiez vos indésirables).
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Accès à vos comptes
 
-Cookies
+Vos identifiant et mot de passe vous permettent d’accéder à votre compte Gamistoric.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Lettres d’information
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Votre adresse e-mail vous permet de recevoir des lettres d’information dont le nombre n’excédera pas une vingtaine par an.
 
-Service Providers
+Informations sur votre utilisation
 
-We may employ third-party companies and individuals due to the following reasons:
+Votre adresse e-mail vous permet de recevoir des informations lors d'une mise à jour de l'application nécessitant une indisponibilité temporaire, de la mise à disposition d'un nouveau produit ou questionnaire dans la boutique… Ces informations peuvent émaner du développeur de l'application Simon SAVORNIN ou du gérant de Gamistoric Bastien CORSINI.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+ 
 
-Security
+Les données collectées sur notre application
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Quelles données ?
 
-Links to Other Sites
+Si vous êtes un particulier, nous collectons votre adresse e-mail et votre mot de passe pour votre accès à la version gratuite. Si vous procédez à un achat sur notre application, vous recevrez une confirmation de commande de la part de Google Play (Androïd) ou Apple Store (iOS), nous collectons uniquement votre identifiant.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Le mot de passe collecté lors de votre inscription est crypté dans nos fichiers et nous permet pas d'y avoir accès.
 
-Children’s Privacy
+Le caractère obligatoire ou facultatif des données vous est signalé par un astérisque lors de la collecte.
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Quand ?
 
-Changes to This Privacy Policy
+Nous collectons les informations que vous nous fournissez notamment quand :
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+vous créez votre compte Gamistoric ;
+vous vous connecté avec votre compte Facebook ou Google ;
+vous effectuez une commande sur notre application ;
+vous participez à un jeu ou un concours ;
+vous prenez contact avec notre Service clientèle ;
+vous rédigez un commentaire sur Google Play ou Apple Store.
+Destinataires des données
 
-Contact Us
+Les données collectées sur l'application Gamistoric sont exclusivement destinées à la société Gamistoric. Elles ne sont transmises à aucun tiers : partenaire, client, prestataire…
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+Vos droits au regard de la loi Informatique et Libertés
 
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+Conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée par la loi du 6 août 2004, vous disposez d’un droit d’accès, de rectification et d’opposition aux données personnelles vous concernant. Il vous suffit de nous écrire par courriel à l'adresse support@gamistoric.com ou par courrier à Gamistoric, Charlan, Lieu-dit Le Pigeonnier, 47190 Aiguillon, en nous indiquant vos nom, prénom, adresse e-mail, adresse et si possible votre identifiant client. Conformément à la réglementation en vigueur, votre demande doit être signée et accompagnée de la photocopie d’un titre d’identité portant votre signature, et doit préciser l’adresse à laquelle doit vous parvenir la réponse. Une réponse vous sera alors adressée dans un délai de deux mois suivant la réception de la demande.
+
+Données bancaires
+
+Les paiements en ligne sont délégués à Google Commerce Limited sur Google Play et Apple Store. Les informations bancaires que vous fournissez sont gérés par eux et ne transitent à aucun moment par nos serveurs.
+
